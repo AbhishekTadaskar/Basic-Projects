@@ -1,2 +1,2 @@
-# Basic-Projects
+# Projects
 Python Programing 
